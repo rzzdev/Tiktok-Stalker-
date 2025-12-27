@@ -131,7 +131,7 @@ Ikuti menu interaktif yang tersedia:
 
 **Catatan: Mode Premium adalah fitur demo untuk menunjukkan kemampuan skrip.**
 
--   **Password Default**: `rzzdev`
+-   **Password Default**: `buy ke owner`
 -   **Fitur di Dalamnya**:
     1.  **Batch Stalking**: Masukkan beberapa username yang dipisahkan dengan koma (misal: `user1,user2,user3`).
     2.  **Export ke CSV**: Menyimpan data profil ke file `tiktok_export_[timestamp].csv`.
