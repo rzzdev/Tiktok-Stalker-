@@ -101,7 +101,7 @@ Ikuti langkah-langkah berikut di Termux Anda:
 4.  **Unduh Skrip**
     -   **Cara 1: Menggunakan Git**
         ```bash
-        git clone https://github.com/rzzdev/Tiktok Stalker.git
+        git clone https://github.com/rzzdev/Tiktok-Stalker-.git
         cd nama-repo
         ```
     -   **Cara 2: Unduh Manual**
